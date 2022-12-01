@@ -1,0 +1,32 @@
+Uri: https://pollo-express.ueniweb.com/
+File Name: C:\Downloaded Web Sites\pollo-express.ueniweb.com\index.htm
+Content Type: text/html
+
+Uri: https://pollo-express.ueniweb.com/legal-notice
+File Name: C:\Downloaded Web Sites\pollo-express.ueniweb.com\legal-notice.html
+Content Type: text/html
+
+Uri: https://pollo-express.ueniweb.com/merchant-policies
+File Name: C:\Downloaded Web Sites\pollo-express.ueniweb.com\merchant-policies
+Content Type: text/html
+
+Uri: https://pollo-express.ueniweb.com/privacy-policy
+File Name: C:\Downloaded Web Sites\pollo-express.ueniweb.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://pollo-express.ueniweb.com/products/menu/platos-a-la-carta-26646911
+File Name: C:\Downloaded Web Sites\pollo-express.ueniweb.com\products\menu\platos-a-la-carta-26646911.html
+Content Type: text/html
+
+Uri: https://pollo-express.ueniweb.com/products/menu/pollo-a-la-brasa-26646910
+File Name: C:\Downloaded Web Sites\pollo-express.ueniweb.com\products\menu\pollo-a-la-brasa-26646910.html
+Content Type: text/html
+
+Uri: https://pollo-express.ueniweb.com/return-and-refund-policy
+File Name: C:\Downloaded Web Sites\pollo-express.ueniweb.com\return-and-refund-policy.html
+Content Type: text/html
+
+Uri: https://pollo-express.ueniweb.com/terms-and-conditions
+File Name: C:\Downloaded Web Sites\pollo-express.ueniweb.com\terms-and-conditions.html
+Content Type: text/html
+
